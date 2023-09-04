@@ -2,8 +2,7 @@
  Utilizando scrapy para construir um arquivo JSON contendo dados de pokemons.
 
 # Replit
- Segue link do replit onde o projeto foi feito:
-  [Projeto Replit]{https://replit.com/@PedroHemmel001/scrapyex01#.replit}
+ Segue link do replit onde o projeto foi feito: https://replit.com/@PedroHemmel001/scrapyex01#.replit
 
 ## Como utilizar
  Para rodar o projeto é necessário a instalação da dependência chamada Scrapy. Ao instalar essa dependência, sempre quando for executar o código, execute da seguinte forma: "scrapy runspider main.py -o saida.json".
