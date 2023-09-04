@@ -8,3 +8,6 @@
  Para rodar o projeto é necessário a instalação da dependência chamada Scrapy. Ao instalar essa dependência, sempre quando for executar o código, execute da seguinte forma: "scrapy runspider main.py -o saida.json".
 
  Esse projeto foi totalmente feito na plataforma replit, acredito que seja mais fácil la, pois é só procurar pela dependencia baixar, após isso você vai para o arquivo .replit, muda o atributo run por: "scrapy runspider main.py -o saida.json", e tira a parte do código denominada: # The command to start the interpreter.
+
+## Objetivo
+ Extrair dados dos pokemons no site https://pokemondb.net/pokedex/all. Esses dados ao final do processo serão guardados no arquivo saida.json.
